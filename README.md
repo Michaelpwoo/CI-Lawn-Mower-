@@ -1,7 +1,7 @@
-CodeIgniter -Lawn-Mower-
+CodeIgniter Lawn Mower
 ==============
 
-This web app meets all the requirement below:
+This web app meets all the requirements below:
 
 Client Overview:
 
